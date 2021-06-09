@@ -15,3 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_a51nsxx.mk
+COMMON_LUNCH_CHOICES := omni_omni_a51nsxx-eng
